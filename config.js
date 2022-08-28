@@ -1,6 +1,6 @@
 /**
-   * Created By LoRD.
-   * Contact Me on wa.me/919778383987
+   * Created By MOHAMED
+   * Contact Me on wa.me/212774339435
    * Follow https://github.com/Lord-official
 **/
 
@@ -34,7 +34,7 @@ global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'tgvnmusic'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
+global.watermark = '«MOHAMED»🇲🇦'
 global.owner = ['+212774339435']
 global.premium = ['+212774339435']
 global.packname = 'ＭＵＳＩＣ ＢＯＴ'
