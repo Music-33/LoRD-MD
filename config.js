@@ -18,11 +18,11 @@ global.APIKeys = {
 }
 //======================================//
 
-global.wm = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮'
+global.wm = '«mohamed»🇮'
 global.ucpn = ''
 
 //================= Url =================//
-global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
+global.linkgc = 'https://chat.whatsapp.com/I6zl0C88f0GAisuNLJY2Ii'
 global.linkig = 'https://www.instagram.com/reel/Ccx79E0A8Rt/?igshid=YmMyMTA2M2Y='
 global.linkyt = 'https://youtu.be/RnpyRe_7jZA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
@@ -32,14 +32,14 @@ global.linkgh = 'https://github.com/Lord-official'
 
 global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'Lord-official'
+global.bodlink = 'tgvnmusic'
 // Other
 global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
-global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
-global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
-global.sessionName = 'lord'
+global.owner = ['+212774339435']
+global.premium = ['+212774339435']
+global.packname = 'ＭＵＳＩＣ ＢＯＴ'
+global.author = 'MOHAMED'
+global.sessionName = 'mohamed'
 global.prefa = ['','!','.','🐦',',','*']
 global.sp = '❄︎'
 global.mess = {
